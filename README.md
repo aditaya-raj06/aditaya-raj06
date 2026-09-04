@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on Full-Stack Web Applications<br>👥 I’m looking to collaborate on Open-Source & Innovative Projects<br>🤝 I’m looking for help with System Design & AI Integration<br>🌱 I’m currently learning Java, DSA, Full-Stack Development & AI<br>💬 Ask me about Web Development, Java, DSA & Project Building<br>⚡ Fun fact: I learn best by building real-world projects.
+🛠️ I’m currently working on Full-Stack Web Applications<br>👥 I’m looking to collaborate on Open-Source & Innovative Projects<br>🤝 I’m looking for help with System Design & AI Integration<br>🌱 I’m currently learning Java, DSA, Full-Stack Development & AI<br>⚡ Fun fact: I learn best by building real-world projects.
 
 
 ## 🌐 Socials:
